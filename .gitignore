@@ -1,0 +1,4 @@
+*.sw*
+misc/test_avx
+test_chunk_reader
+compute_ref_3grams
